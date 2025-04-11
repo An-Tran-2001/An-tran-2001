@@ -1,6 +1,6 @@
-# 👨‍💻 An Tran – Senior Software & AI Developer | ML/DL Specialist  
+# 👨‍💻 An Tran – Software & AI Developer | ML/DL Specialist  
 
-Hi there! I’m a Senior Developer with **extensive experience** in developing large-scale **AI** and **software systems**. Over the years, I’ve led and contributed to **5+ major AI projects** and **6+ large-scale software projects**, delivering robust, scalable solutions. My expertise lies in **Python**, **JavaScript**, **RAG workflows**, fine-tuning **LLMs**, and designing systems using **SQL/NoSQL databases**, **AWS**, and **Azure services**.  
+Hi there! I’m a Developer with **extensive experience** in developing large-scale **AI** and **software systems**. Over the years, I’ve led and contributed to **5+ major AI projects** and **6+ large-scale software projects**, delivering robust, scalable solutions. My expertise lies in **Python**, **JavaScript**, **RAG workflows**, fine-tuning **LLMs**, and designing systems using **SQL/NoSQL databases**, **AWS**, and **Azure services**.  
 
 ---
 
