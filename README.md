@@ -1,10 +1,10 @@
-# 👨‍💻 An Tran – Software & AI Developer | ML/DL Specialist  
+# An Tran – Software & AI Developer | ML/DL Specialist  
 
 Hi there! I’m a Developer with **extensive experience** in developing large-scale **AI** and **software systems**. Over the years, I’ve led and contributed to **5+ major AI projects** and **6+ large-scale software projects**, delivering robust, scalable solutions. My expertise lies in **Python**, **JavaScript**, **RAG workflows**, fine-tuning **LLMs**, and designing systems using **SQL/NoSQL databases**, **AWS**, and **Azure services**.  
 
 ---
 
-## 🔧 Core Skills  
+## Core Skills  
 - **Programming**: Python, JavaScript/TypeScript  
 - **Databases**: PostgreSQL, MongoDB, MySQL, Redis  
 - **AI/ML/DL**: RAG, Transformers (GPT, BERT), PyTorch, TensorFlow  
@@ -14,7 +14,7 @@ Hi there! I’m a Developer with **extensive experience** in developing large-sc
 
 ---
 
-## 🚀 Highlights  
+## Highlights  
 ### AI Projects:  
 - Developed and deployed **5+ enterprise-level AI solutions** in areas like natural language processing, recommendation systems, and predictive analytics.  
 - Fine-tuned **LLMs** for specialized tasks, improving task efficiency and accuracy.  
