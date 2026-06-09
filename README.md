@@ -20,13 +20,6 @@ Cloud & Infrastructure           ███████              10%
 Data Platforms                   ███                  5%
 ```
 
-## Tech Stack
-
-```text
-Python  ██████████████████████████████████████████████████ 99%
-Others  █                                                  1%
-```
-
 ---
 
 > Building AI systems from research to production.
